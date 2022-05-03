@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TodoListWPF"
         mc:Ignorable="d" Closing="Window_Closing"
-        Title="Список задач" Height="450" Width="600"
+        Title="Ежедневник" Height="450" Width="600"
         Loaded="MainWindow_OnLoaded">
 
     <Window.CommandBindings>
